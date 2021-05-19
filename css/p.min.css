@@ -1,0 +1,16 @@
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.width-100-percent {
+    width: 100%;
+}
+
+body,html {
+    font-family: 'Courier New', Courier, monospace,微软雅黑,新宋体;
+    background: #f7f7f7;
+    overflow: hidden;
+  }
+  .container {
+    padding-top: 20px;
+  }
